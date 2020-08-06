@@ -1,16 +1,13 @@
-### Hi there 👋
+### Ahoy, there! Captain 👋 
 
-<!--
-**santanudeb/santanudeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Santanu, i like Reading books, Music, Playing Sports and Games.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on social media app.
+- 🌱 I’m currently learning everything.
+- 👯 I’m looking to collaborate with Open Source Projects.
+- 🤔 I'm currently exploring the new areas.
+- 💬 Ask me about literally anything.
+- 📫 How to reach me: santanudeb1@gmail.com
+- ⚡ Fun fact: Halleys Comet won’t orbit past Earth again until 2061.
+- 👨 Linkedin: https://www.linkedin.com/in/santanu-deb-ca/ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
