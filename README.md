@@ -24,6 +24,6 @@ I'm Santanu, i like Reading books, Music, Playing Sports and Games.
 <br />
 <br />
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=santanudeb&show_icons=true&hide_border=true" />
 
 [linkedin]: https://www.linkedin.com/in/santanu-deb-ca/ 
