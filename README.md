@@ -1,6 +1,6 @@
 ### Ahoy, there! Captain 👋 
 
-I'm Santanu, i like Reading books, Music, Playing Sports and Games.
+I like Reading books, Listening music, Playing Sports and Games.
 
 - 🔭 I’m currently working on social media app.
 - 🌱 I’m currently learning everything.
