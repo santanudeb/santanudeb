@@ -2,9 +2,9 @@
 
 I like Reading books, Listening music, Playing Sports and Games.
 
-- 🔭 I’m currently working on social media app.
+- 🔭 I’m currently working at Kantar.
 - 🌱 I’m currently learning everything.
-- 👯 I’m looking to collaborate with Android Projects.
+- 👯 I’m looking to collaborate with any projects.
 - 🤔 I'm currently exploring the new areas.
 - 💬 Ask me about literally anything.
 - 📫 How to reach me: santanudeb1@gmail.com
