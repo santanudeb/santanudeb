@@ -2,7 +2,6 @@
 
 I like Reading books, Listening music, Playing Sports and Games.
 
-- 🔭 I’m currently working at Kantar.
 - 🌱 I’m currently learning everything.
 - 👯 I’m looking to collaborate with any projects.
 - 🤔 I'm currently exploring the new areas.
