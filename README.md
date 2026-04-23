@@ -8,7 +8,7 @@ I like Reading books, Listening music, Playing Sports and Games.
 - 💬 Ask me about literally anything.
 - 📫 How to reach me: santanudeb1@gmail.com
 - ⚡ Fun fact: Halleys Comet won’t orbit past Earth again until 2061.
-- 📝 [Resume](https://github.com/santanudeb/Docs/blob/master/Santanu_Deb_Resume.pdf)
+- 📝 [Resume](https://docs.google.com/document/d/1UOXGZeZdt6t1WLPFaU2lRLY7MuQ8GnDg/edit?usp=drive_link&ouid=105429996312408599859&rtpof=true&sd=true)
 
 ### Connect with me:
 
