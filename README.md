@@ -11,7 +11,7 @@ I like Reading books, Listening music, Playing Sports and Games.
 - 📝 [Resume](https://drive.google.com/file/d/11Fd-iRiTaS0BYkgkMR0LTRZka8EvfbmM/view?usp=drive_link)
 
 ### Projects:
-[Grocery_App](https://github.com/santanudeb/Grocery_App) - [Android_Projects](https://github.com/santanudeb/Android_Projects)
+[Databricks Projects](https://github.com/santanudeb/databricks/tree/main) - [Tableau Projects](https://github.com/santanudeb/Tableau/tree/master/Project)  - [Power_BI Projects](https://github.com/santanudeb/Power_BI/tree/main/Project) - [Grocery_App](https://github.com/santanudeb/Grocery_App) - [Android_Projects](https://github.com/santanudeb/Android_Projects)
 
 ### Connect with me:
 
