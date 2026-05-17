@@ -11,7 +11,7 @@ I like Reading books, Listening music, Playing Sports and Games.
 - 📝 [Resume](https://drive.google.com/file/d/11Fd-iRiTaS0BYkgkMR0LTRZka8EvfbmM/view?usp=drive_link)
 
 ### Projects:
-[Grocery_App](https://github.com/santanudeb/Grocery_App) [Android_Projects](https://github.com/santanudeb/Android_Projects)
+[Grocery_App](https://github.com/santanudeb/Grocery_App) - [Android_Projects](https://github.com/santanudeb/Android_Projects)
 
 ### Connect with me:
 
